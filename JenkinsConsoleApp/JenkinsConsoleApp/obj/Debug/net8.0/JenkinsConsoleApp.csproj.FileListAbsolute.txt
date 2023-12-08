@@ -1,0 +1,14 @@
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\net8.0\JenkinsConsoleApp.exe
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\net8.0\JenkinsConsoleApp.deps.json
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\net8.0\JenkinsConsoleApp.runtimeconfig.json
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\net8.0\JenkinsConsoleApp.dll
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\net8.0\JenkinsConsoleApp.pdb
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.AssemblyInfoInputs.cache
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.AssemblyInfo.cs
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.csproj.CoreCompileInputs.cache
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.dll
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\refint\JenkinsConsoleApp.dll
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.pdb
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.genruntimeconfig.cache
+E:\Kubernetes\Application\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\ref\JenkinsConsoleApp.dll
